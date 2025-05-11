@@ -1,0 +1,21 @@
+
+---
+
+## MVP Feature Checklist
+
+- [x] User auth (register/login)
+- [x] Store CRUD (create/edit/delete)
+- [x] Product CRUD
+- [x] Product listing & detail pages
+- [x] Shopping cart
+- [x] Checkout & order creation
+- [x] Stripe test payment
+- [x] Admin dashboard
+- [x] Responsive UI (Tailwind + shadcn/ui)
+- [x] TypeScript everywhere
+
+---
+
+**Tip:**  
+Keep the code modular and document each package/app for easier scaling and onboarding.
+

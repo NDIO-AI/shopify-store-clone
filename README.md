@@ -145,8 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com)
-
+For any questions or feedback, please reach out to us on our Discord server at Discord: https://discord.gg/NZyGKZuhDx
 ---
 
-Built with ❤️ by [Your Name/Team]
+Built with ❤️ by [NDIO ACQUISITIONS]
